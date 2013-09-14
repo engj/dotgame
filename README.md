@@ -1,4 +1,8 @@
-dotgame
+DotGame
 =======
 
-A simple game ported from Java to Javascript.
+Todo:
+- Dot click indication.
+
+Features to be added:
+- Multiplayer support.
