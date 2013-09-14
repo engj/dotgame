@@ -1,8 +1,7 @@
-DotGame
-=======
+A simple game originally made in CS61B that was ported from Java to HTML/CSS/Javascript.
 
-Todo:
-- Dot click indication.
+Todo
+- Dot click indicator
 
-Features to be added:
-- Multiplayer support.
+Future
+- Multiplayer support
